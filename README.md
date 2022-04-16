@@ -9,3 +9,8 @@ the computer responds to each guess as follows:
 * If the guess has no numbers correct, he responds: "Bagel."
 * For each digit the guess has correct, but in the wrong place, he responds: "Pico."
 * For each digit the guess has correct and in the correct place, he responds: "Fermi."
+
+Additional problems [^1].
+
+
+[^1]: https://sites.math.washington.edu/~mathcircle/mmc/mmc2010/PicoFermiBagel.pdf
